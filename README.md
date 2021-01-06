@@ -5,6 +5,9 @@ A skip list is a linked list where each node has a "tower". The tower is represe
 Each pointer points to the next node with a tower that is at least as high as the pointers height. The towers' heights
 are generated based on a "coin flip".
 
+
+USE RAW VIEW TO SEE IMAGE EXAMPLE BELOW:
+
   |   -------------------------------->   |
   |   ------------>   |   ------------>   |     <--TOWERS
  _|_  -----___---->  _|_  -->  _|_  -->  _|_
